@@ -1,0 +1,81 @@
+[
+  {
+    "id": 1,
+    "name": "ULTRABOOST 22 SHOES",
+    "price": 420,
+    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg",
+    "quantity": 0
+  },
+  {
+    "id": 2,
+    "name": "ULTRABOOST DNA SHOES",
+    "price": 196,
+    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2cee64414e1f4f31baf1ae270099d950_9366/Lunar_New_Year_Ultraboost_DNA_Shoes_Black_GZ6074_01_standard.jpg",
+    "quantity": 0
+  },
+  {
+    "id": 3,
+    "name": "SUPERNOVA SHOES",
+    "price": 245,
+    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/69cbc73d0cb846889f89acbb011e68cb_9366/Supernova_Shoes_Black_S42722_01_standard.jpg",
+    "quantity": 0
+  },
+
+  {
+    "id": 4,
+    "name": "GORE-TEX HIKING SHOES",
+    "price": 111,
+    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/dfa8c9a7d2864065b27fad7400b2e05e_9366/Terrex_AX4_Mid_GORE-TEX_Hiking_shoes_Black_FY9638_01_standard.jpg",
+    "quantity": 0
+  },
+
+  {
+    "id": 5,
+    "name": "LONG SLEEVE TEE",
+    "price": 23,
+    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c6a321b7bb7243d28fe9ac71011393c7_9366/Own_the_Run_Long_Sleeve_Tee_Black_GJ9977_21_model.jpg",
+    "quantity": 0
+  },
+  {
+    "id": 6,
+    "name": "Alliance Sackpack",
+    "price": 99,
+    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/2e8a6f09838d49c3b00fad4f0017f753_9366/Alliance_Sackpack_White_FZ6823_01_standard.jpg",
+    "quantity": 0
+  },
+  {
+    "id": 7,
+    "name": "Superlite Hat",
+    "price": 11,
+    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/0ae141db6fce44999337ac8e015954ea_9366/Superlite_Hat_Grey_EX7054_01_standard.jpg",
+    "quantity": 0
+  },
+  {
+    "id": 8,
+    "name": "Superlite Hat",
+    "price": 10,
+    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/272d5d9cb7b74415a6c9ac8e015a4ccc_9366/Superlite_Hat_Black_EX7048_01_standard.jpg",
+    "quantity": 0
+  },
+  {
+    "id": 9,
+    "name": "True Wireless Earbuds",
+    "price": 162,
+    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/523731a02e914d318cb4adcc00f985ba_9366/adidas_FWD-02_Sport_True_Wireless_Earbuds_Grey_EY5113_03_standard_hover.jpg",
+    "quantity": 0
+  },
+  {
+    "id": 10,
+    "name": "ANC Wireless Earbuds",
+    "price": 110,
+    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/9e6e7967b3b24ef298f5adcc00f983ec_9366/adidas_Z.N.E._01_ANC_True_Wireless_Earbuds_Grey_EY5115_41_detail.jpg",
+    "quantity": 0
+  },
+  {
+    "id": 11,
+    "name": "Steel Metal Bottle 2L",
+    "price": 37,
+    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/f8d89293c9cb4bf08d52adb100f95a3a_9366/Steel_Metal_Bottle_2L_Black_EX7302_01_standard.jpg",
+    "quantity": 0
+  }
+]

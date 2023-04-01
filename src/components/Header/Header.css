@@ -1,0 +1,24 @@
+#Header {
+  background: #9b45b2;
+  padding: 10px 0;
+}
+
+.logo a {
+  font-size: 30px;
+  font-weight: 700;
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.header-menu ul li {
+  list-style: none;
+  padding-left: 20px;
+}
+
+.header-menu ul li a {
+  display: block;
+  font-size: 18px;
+  color: #ffffff;
+  text-decoration: none;
+  margin-top: 10px;
+}

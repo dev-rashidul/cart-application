@@ -1,0 +1,87 @@
+.single-cart {
+  max-width: 800px;
+  width: 100%;
+  margin: auto;
+}
+
+.single-cart img {
+  width: 100px;
+  height: 100px;
+}
+
+.cart-left h4 {
+  font-size: 20px;
+  font-weight: 600;
+  color: #973baf;
+}
+
+.cart-left p {
+  font-size: 18px;
+  font-weight: 600;
+  color: #000000;
+}
+
+.cart-right p {
+  font-size: 18px;
+  font-weight: 600;
+  color: #000000;
+  position: relative;
+  margin-top: 15px;
+}
+
+.cart-right button {
+  font-size: 18px;
+  padding: 5px 16px;
+  color: #ffffff;
+  background: #973baf;
+  margin: 0 20px;
+  border: none;
+}
+
+.delete-btn {
+  font-size: 18px;
+  padding: 5px 16px;
+  color: #ffffff;
+  background: #ff0000 !important;
+  margin-left: 40px;
+  border: none;
+}
+
+.total-price p {
+  font-size: 20px;
+  font-weight: 600;
+  color: #000000;
+}
+
+.total-price p span {
+  font-size: 25px;
+  font-weight: 700;
+  color: #973baf;
+}
+
+.order-place-btn a {
+  font-size: 18px;
+  text-decoration: none;
+  color: #ffffff;
+  background: #932fac;
+  padding: 10px 30px;
+  border-radius: 5px;
+}
+
+.order-content {
+  text-align: center;
+  padding: 200px 0;
+}
+
+.order-content h3 {
+  font-size: 25px;
+  font-weight: 700;
+  color: #932fac;
+  padding: 10px 0;
+  margin-bottom: 0;
+}
+
+.order-content p {
+  font-size: 18px;
+  color: #5e5d5d;
+}
